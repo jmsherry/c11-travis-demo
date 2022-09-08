@@ -16,5 +16,5 @@ deploy:
   skip-cleanup: true
   api_key: $HEROKU_API_KEY
   app:
-    main: c10-app-staging
+    main: c11-travis-demo
 
